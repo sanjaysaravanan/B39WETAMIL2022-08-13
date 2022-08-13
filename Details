@@ -37,13 +37,13 @@ Topics:
       string, number(NaN), boolean, undefined, null,
     Composite Data Types:
       Object, Array, Function
-  
-  Copy By Value & Copy By Reference
+  Next Session:
+    Copy By Value & Copy By Reference
 
-  Array and Json Iteration
+    Array and Json Iteration
 
-  XMLHttpRequest
-  HTTP Methods
+    XMLHttpRequest
+    HTTP Methods
 
-    If Time Permits:
-      Pushing Codes to Github - Part - 1
+      If Time Permits:
+        Pushing Codes to Github - Part - 1
